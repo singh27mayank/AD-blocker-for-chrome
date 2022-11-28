@@ -12,7 +12,7 @@
 
 ## How to Use the extension ?
 1. Clone the repository. <br>
-  <code> git clone (https://github.com/shubhanshushubham/Ad-blocker-Chrome-extension.git) </code>
+  <code> git clone (https://github.com/singh27mayank/AD-blocker-for-chrome) </code>
 3. Open Chrome and go to Extensions.
 4. Enable Developer Mode.
 5. Click on "Load Unpacked".
